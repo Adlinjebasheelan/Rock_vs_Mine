@@ -1,0 +1,10 @@
+Sonar Rock vs Mine Prediction(submarine)
+---------------------------
+
+sonar data --> Data pre processing ---> Train and Test split
+
+
+->we can use Logistic Regression model.(supervised learning algorithm)
+
+
+
